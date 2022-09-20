@@ -10,6 +10,19 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
+.high-rating {
+  color: #3ba17c;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.header-statement {
+  color: #ffffff;
+  font-size: 1.2rem;
+}
+
 .banner {
   background-color: #184031;
   padding: 16px;
