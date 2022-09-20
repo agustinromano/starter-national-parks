@@ -10,6 +10,12 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
+.sorter {
+  width: 90%;
+  margin: 0 auto;
+  padding: 6px;
+}
+
 .high-rating {
   color: #3ba17c;
   font-size: 1.5rem;
